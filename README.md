@@ -1,4 +1,4 @@
-#NeutralCitation
+#Neutral Citation
 
 Guidelines for neutral citations for courts in India
 
