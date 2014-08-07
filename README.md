@@ -36,3 +36,5 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 * [A Standardized Data/Markup Model to Support Neutral Citation of Court Cases, Legislation, and Regulations](http://xml.coverpages.org/neutral-legal-citation-data-and-markup-models.html)
 * [Public Domain Legal Citations](http://onward.justia.com/2010/12/17/public-domain-legal-citations/)
 * [Vendor-Neutral Citation Rules Adopted by American Jurisdictions](http://www.aallnet.org/main-menu/Advocacy/access/citation/neutralrules)
+* [Vendor Neutral Citation is getting **some traction**](http://outofthejungle.blogspot.in/2011/03/vendor-neutral-citation-is-getting-some.html)
+* [Universal Citation: The Fullest Possible Dissemination of Judgments](http://www.thirdamendment.com/citation.html)
