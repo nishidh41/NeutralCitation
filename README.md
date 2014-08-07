@@ -2,8 +2,19 @@
 
 Guidelines for neutral citations for courts in India
 
-##What is neutral Citation?
+##What is Neutral Citation?
 A Neutral Citation ("vendor neutral" and "medium neutral") is the citation system that makes the cite depend  on characteristics that are inherent in the opinions of the courts.
+
+##Examples of Neutral Citation
+**Hackney v Driscoll [2003] EWCA Civ 1037**
+>In the example shown above, the neutral citation shows that **Hackney v Driscoll** was a decision handed down in **2003** by the Civil Division (**Civ**) of the Court of Appeal of England and Wales (**EWCA**) which has been attributed with the case number **1037**. 
+
+*_Above example is for mere reference only. Neutral Citations can be written in various other format. For more read "Related links" section below._
+
+##Objectives of the Neutral Citation Project
+- [ ] Identify various variables for Neutral Citation.
+- [ ] Identify sequence in which each varible should be used in proposed to be guidelines.
+- [ ] Provide exhaustve guideline for Indian Supreme Court, various High Courts and Tribunals.
 
 ##[The advantages of the Neutral Citation](https://lexum.com/ccc-ccr/neutr/neutr.jur_en.html)
 >###For judges
@@ -31,7 +42,9 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 ##Related links
 
 * [A Neutral Citation Standard for Case Law](https://lexum.com/ccc-ccr/neutr/neutr.jur_en.html)
+* [Neutral Citations](https://metranet.londonmet.ac.uk/services/sas/library-services/subject-help/subjects/lawnorth/neut.cfm)
 * [6 GOALS FOR PUBLIC ACCESS TO CASE LAW](http://blog.law.cornell.edu/voxpop/2013/05/31/6-goals-for-public-access-to-case-law/)
+* [HOW TO CITE A CASE - BUILDING THE CITATION](http://library.queensu.ca/law/lederman/legalcitation)
 * [Guide to uniform production of judgments](http://www.austlii.edu.au/au/other/CompLRes/1999/1/)
 * [Neutral Citation, Court Web Sites, and Access to Case Law](http://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1069&context=lsrp_papers)
 * [A Standardized Data/Markup Model to Support Neutral Citation of Court Cases, Legislation, and Regulations](http://xml.coverpages.org/neutral-legal-citation-data-and-markup-models.html)
