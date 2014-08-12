@@ -15,6 +15,7 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 - [ ] Identify various variables for Neutral Citation.
 - [ ] Identify sequence in which each varible should be used in proposed to be guidelines.
 - [ ] Provide exhaustve guideline for Indian Supreme Court, various High Courts and Tribunals.
+- [ ] Proposed Neutral Citation guidelines can be used to identify & fill metadata for digital forats of court judgements.
 
 ##[The advantages of the Neutral Citation](https://lexum.com/ccc-ccr/neutr/neutr.jur_en.html)
 >###For judges
