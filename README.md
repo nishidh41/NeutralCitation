@@ -46,11 +46,14 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 ##Guidelines which may be relevant
 
 * [Canadian Citation Committee - Case Naming Guidelines *February 27, 2009*](https://lexum.com/ccc-ccr/cn/CaseNaming_20090227_en_rev.pdf)
+* [NEW ZEALAND LAW STYLE GUIDE, *SECOND EDITION*](http://www.lawfoundation.org.nz/style-guide/)
+
 
 ##Related links
 
 * [A Neutral Citation Standard for Case Law](https://lexum.com/ccc-ccr/neutr/neutr.jur_en.html)
 * [Neutral Citations](https://metranet.londonmet.ac.uk/services/sas/library-services/subject-help/subjects/lawnorth/neut.cfm)
+* [The Emergence of Neutral Citation](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1604994)
 * [6 GOALS FOR PUBLIC ACCESS TO CASE LAW](http://blog.law.cornell.edu/voxpop/2013/05/31/6-goals-for-public-access-to-case-law/)
 * [HOW TO CITE A CASE - BUILDING THE CITATION](http://library.queensu.ca/law/lederman/legalcitation)
 * [Guide to uniform production of judgments](http://www.austlii.edu.au/au/other/CompLRes/1999/1/)
