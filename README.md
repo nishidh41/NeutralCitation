@@ -46,6 +46,7 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 ##Guidelines which may be relevant
 
 * [Canadian Citation Committee - Case Naming Guidelines *February 27, 2009*](https://lexum.com/ccc-ccr/cn/CaseNaming_20090227_en_rev.pdf)
+* [Canadian Citation Committee - The Preparation, Citation and Distribution of Canadian Decisions](http://www.cjc-ccm.gc.ca/cmslib/Committee/JTAC/JTAC-Consolidation-of-Standards-2009-04-02-E.pdf)
 * [NEW ZEALAND LAW STYLE GUIDE, *SECOND EDITION*](http://www.lawfoundation.org.nz/style-guide/)
 
 
