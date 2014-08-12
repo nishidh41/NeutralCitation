@@ -40,7 +40,12 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 >* Promotes the development of electronic tools while offering an official method of referencing unpublished decisions.
 
 ##List of Case Types
+
 * [LIST OF CASE TYPES IN HIGH COURT OF KARNATAKA](http://karnatakajudiciary.kar.nic.in/noticeBoard/casetypes.pdf)
+
+##Guidelines which may be relevant
+
+* [Canadian Citation Committee - Case Naming Guidelines *February 27, 2009*](https://lexum.com/ccc-ccr/cn/CaseNaming_20090227_en_rev.pdf)
 
 ##Related links
 
