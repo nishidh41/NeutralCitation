@@ -42,6 +42,7 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 
 ##List of Case Types
 
+* [LIST OF CASE TYPES IN HIGH COURT OF GUJARAT](http://gujarathighcourt.nic.in/rti/gujhcsms.pdf)
 * [LIST OF CASE TYPES IN HIGH COURT OF KARNATAKA](http://karnatakajudiciary.kar.nic.in/noticeBoard/casetypes.pdf)
 
 ##Guidelines which may be relevant
