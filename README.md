@@ -72,3 +72,4 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 
 ##For LawGeeks
 * [A Citation Style Language (CSL) workshop](http://www.danielstender.com/blog/wp-content/uploads/tb111stender.pdf)
+* [LATEX for academics and researchers who (think they) don’t need it](https://www.tug.org/TUGboat/tb28-1/tb88flom.pdf)
