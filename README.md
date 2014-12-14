@@ -70,3 +70,5 @@ A Neutral Citation ("vendor neutral" and "medium neutral") is the citation syste
 * [UNIVERSAL CITATION FOR STATE CODES](http://blog.law.cornell.edu/voxpop/2011/09/01/universal-citation-for-state-codes/)
 * [Down the Rabbit Hole: Establishing Uniform Authentication and Preservation Standards for U.S. Legal Materials](http://onward.justia.com/2011/06/30/down-the-rabbit-hole-establishing-uniform-authentication-and-preservation-standards-for-u-s-legal-materials/)
 
+##For LawGeeks
+* [A Citation Style Language (CSL) workshop](http://www.danielstender.com/blog/wp-content/uploads/tb111stender.pdf)
